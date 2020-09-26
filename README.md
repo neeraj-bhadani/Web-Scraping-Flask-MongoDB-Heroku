@@ -5,4 +5,4 @@ Link: https://evening-springs-66584.herokuapp.com
 download Heroku CLI.
 howtorun.txt file contains step by step implementation
 
-C:\Users\bhadaneeraj\OneDrive\Pictures\Screenshots\Screenshot3.jpg
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
